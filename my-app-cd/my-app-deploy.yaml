@@ -27,7 +27,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: fastapi-service
-  namespace: <Your Github Unsername>
+  namespace: whdmswl17
 spec:
   selector:
     app: fastapi
